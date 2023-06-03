@@ -25,6 +25,15 @@ Man findet mich auf https://les.cx - über unsoziale Medien bin ich nicht zu err
 
 ---
 
+Q: Welches Betriebssystem verwendest Du?
+
+SA: Windows™ 11 + GrapheneOS
+
+LA: Im Moment nutze ich Windows™. Ich habe den Großteil meines digitalen Lebens mit GNU/Linux verbracht (Fedora Linux with Gnome), allerdings auch für ein-zwei Monate Qubes OS verwendet. Mit OpenBSD auf dem Desktop bin ich leider nie warm geworden, auch wenn ich die Einfachheit des Administration sehr zu schäften wusste. MacOS hatte ich zu Beginn meines Studiums für ein Jahr verwendet. Ich mochte meinen M1 Pro, aber ich hatte immer das Gefühl, als würde ich gegen die Software kämpfen müssen. Deshalb wurde der Laptop auch wieder verkauft.\n
+Mitte 2023 bin ich zurück auf _die dunkle Seite_ des bösen Großkonzerns Microsoft gewechselt, um mehr über das Systeminterne zu erfahren. Windows security hardening interessiert mich genauso, wie es mich auch früher bei \*NIX-basierten Betriebssystemen interessiert hat. Ich hatte schon vor meinem Wechsel auf Windows Gefallen an Powershell gefunden und wollte mehr über Active Directory (AD) und Azure lernen. Und ich habe begonnen, in C# zu programmieren mit dem Ziel, ein paar Ideen von mir zu realisieren. Was ich schaffen werde, kann man ja hier auf GitHub nachverfolgen.
+
+Desktop: Windows 2000 auf dem Rechner meines Vaters --> mein erster, eigener Rechner mit Windows 10 (zu meiner "gamerzeit") --> GNU/Linux (auf jenem "gaming PC") --> QubesOS --> OpenBSD --> macOS --> GNU/Linux --> Windows 11. Langer Weg bis hierhin.
+
 _Okay, vielleicht wurden die Fragen nicht häufig gestellt - aber es sind Fragen, die vermutlich häufiger gestellt werden könnten._
 
 ---
