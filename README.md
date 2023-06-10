@@ -16,7 +16,7 @@ Man findet mich auf https://les.cx - über unsoziale Medien bin ich nicht zu err
 ### Languages
 
 [![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/lescx)
- [![C](https://img.shields.io/badge/python-black?style=for-the-badge&logo=c)](https://github.com/lescx) 
+ [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/lescx) 
  [![C++](https://img.shields.io/badge/cpp-black?style=for-the-badge&logo=cpp)](https://github.com/lescx)
 
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/lescx)
