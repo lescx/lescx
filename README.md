@@ -11,6 +11,21 @@ schreibe ich andermal weiter, wenn ich bessere Worte dafür finde. Ansprechen: E
 
 Man findet mich auf https://les.cx - über unsoziale Medien bin ich nicht zu erreichen.
 
+## H2
+
+### Languages
+
+[![Elixir](https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir)](https://github.com/lescx)
+ [![C](https://img.shields.io/badge/python-black?style=for-the-badge&logo=c)](https://github.com/lescx) 
+ [![C++](https://img.shields.io/badge/cpp-black?style=for-the-badge&logo=cpp)](https://github.com/lescx)
+
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/lescx)
+
+[![Powershell](https://img.shields.io/badge/powershell-black?style=for-the-badge&logo=powershell)](https://github.com/lescx)
+
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=bash)](https://github.com/lescx)
+
+
 ## (Not So) Frequently Answered Questions
 
 Kommend ein paar Fragen, die Dich vielleicht interessieren könnten. Falls Du über eine Frage mehr erfahren möchtest, klicke auf die jeweilige Frage. Du gelangst darüber auf meine Website, auf der ich dann nährr darauf eingehen werde.
