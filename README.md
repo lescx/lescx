@@ -15,4 +15,4 @@ You can find me on Matrix at @les.cx:matrix.org
 
 If you would like to use PGP/age to encrypt your messages, you are welcome to do so.
 
-[This repo](https://github.com/lescx/les.cx) contains my signed public keys. You can find the fingerprint on my website or on Mastodon.
+[This repo](https://github.com/lescx/lescx) contains my signed public keys. You can find the fingerprint on my website or on Mastodon.
