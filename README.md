@@ -7,8 +7,10 @@ Ich versuche mich in einem Spagat zwischen _Kunst machen zu dürfen und arm sein
 
 ## Contact Me
 
-You can find my personal website at [les.cx](https://les.cx).
+You can find my personal website at [les.cx](https://les.cx)
 
-I phased out the usage of Email + PGP for public communication.
+I have stopped using email + PGP for secure, public communication. PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact.
 
 You can find me on Matrix at @les.cx:matrix.org
+
+If you need more confidentiality, write to me using a burner account and send me your PGP/age public key if you wish.
