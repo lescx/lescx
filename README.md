@@ -13,4 +13,6 @@ I have stopped using email + PGP for secure, public communication. PGP makes it 
 
 You can find me on Matrix at @les.cx:matrix.org
 
-If you need more confidentiality, write to me using a burner account and send me your PGP/age public key if you wish.
+If you would like to use PGP/age to encrypt your messages, you are welcome to do so.
+
+[This repo](https://github.com/lescx/les.cx) contains my signed public keys. You can find the fingerprint on my website or on Mastodon.
