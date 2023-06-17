@@ -10,9 +10,7 @@
 - Matrix: @les.cx:matrix.org
 - email:
 
-Disclaimer:
-
-I will not reply to unencrypted emails **or emails I cannot decrypt!**
+Disclaimer: I will not reply to unencrypted emails **or emails I cannot decrypt!**
   
 PGP makes it easy to make mistakes, so I prefer a simpler approach for initial contact for most people.
 
