@@ -9,7 +9,7 @@
 
 PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact for most people and phased out the usage of my own key to communicate with people. If you are sure you know what you are doing (and knew what you were doing when creating and storing the private key somewhere reasonably secure), use my public key, verify the fingerprint(!) and write me an encrypted email at: contact [at] les [dot] cx OR via matrix, if you are really paranoid.
 
-I will not answer to unencrypted Emails (PGP) **or Emails I can not decrypt!**
+I will not answer to unencrypted Emails **or Emails I can not decrypt!**
 
 ---
 
