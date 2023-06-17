@@ -2,18 +2,19 @@
 
 ## Contact Me
 
-You can find my personal website at [les.cx](https://les.cx)
+- Website: [les.cx](https://les.cx)
+- nostr: npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
+- Matrix: @les.cx:matrix.org
+- Email/PGP: read on.
 
-I have stopped using email + PGP for secure, public communication. PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact.
+PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact for most people and phased out the usage of my own key to communicate with people. If you are sure you know what you are doing (and knew what you were doing when creating and storing the private key somewhere reasonably secure), use my public key, verify the fingerprint(!) and write me an encrypted email at: contact [at] les [dot] cx OR via matrix, if you are really paranoid.
 
-You can find me on Matrix at @les.cx:matrix.org instead.
-
-If you would like to use PGP/age to encrypt your messages on top of Matrix, you are invited to do so with me.
-
-<!-- [This repo](https://github.com/lescx/lescx) contains my signed public keys. You can find the fingerprint on my website or on Mastodon. -->
+I will not answer to unencrypted Emails (PGP) **or Emails I can not decrypt!**
 
 ---
 
-I'm not on Mastodon (yet) but you can find me on nostr:
 
-npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
+This repo contains my signed [public key](https://les.cx/placeholder). You can find the fingerprint on my website or on Mastodon. Verify it!
+
+I'm not on Mastodon (yet) but you can find me on :
+
