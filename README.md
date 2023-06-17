@@ -22,7 +22,3 @@ If you would like to use PGP/age to encrypt your messages on top of Matrix, you 
 I'm not on Mastodon (yet) but you can find me on nostr:
 
 npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
-
-GitHub gist proof:
-
-https://gist.github.com/lescx/fa9cdd03ccedbccdf2671410ef9bd1d4
