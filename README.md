@@ -7,14 +7,4 @@
 - Matrix: @les.cx:matrix.org
 - Email/PGP:<details><summary>click me.</summary>
   
-  PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact for most people.</br></br>If you are sure you know what you are doing (and knew what you were doing when creating and storing the private key somewhere reasonably secure), use my public key, verify the fingerprint(!) and write me an encrypted email at: contact [at] les [dot] cx OR via matrix, if you are really paranoid.</br></br>I will not answer to unencrypted Emails **or Emails I can not decrypt!**</details>
-
-
-
----
-
-
-This repo contains my signed [public key](https://les.cx/placeholder). You can find the fingerprint on my website or on Mastodon. Verify it!
-
-I'm not on Mastodon (yet) but you can find me on :
-
+  PGP makes it easy to make mistakes, so I prefer a simpler chat-like approach for initial contact for most people.</br></br>If you are sure you know what you are doing (and knew what you were doing when creating and storing the private key somewhere reasonably secure), use my [public key](https://les.cx/placeholder), verify the fingerprint(!) and write me an encrypted email at: contact [at] les (dot} cx or via matrix, if you are really paranoid.</br></br>I will not answer to unencrypted Emails **or Emails I can not decrypt!**</details>
