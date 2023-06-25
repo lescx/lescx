@@ -14,7 +14,7 @@
   
 PGP makes it easy to make mistakes, so I prefer a simpler approach for initial contact for most people.
 
-If you are sure you know what you are doing (and knew it when you created and stored the private key in a reasonably secure place), use my public key, **check the fingerprint** and send me an encrypted email at: contact [at] les (dot} cx or encrypt your messages via matrix, if you are really paranoid.
+If you are sure you know what you are doing (and knew it when you created and stored the private key in a reasonably secure place), use my public key, **check the fingerprint** and send me an encrypted email at: \[] [at] les (dot} cx or encrypt your messages via matrix, if you are really paranoid.
 
 - PGP public key:
   - [HTTP](https://les.cx)
