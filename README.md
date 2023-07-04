@@ -15,7 +15,7 @@ PGP makes it easy to make mistakes, so I prefer a simpler approach to initial co
 
 If you are sure you know what you are doing (and knew it when you created and stored the private key in a reasonably secure place), use my public key, **check the fingerprint** and send me an encrypted email at: _my first name_ @ les.cx.
 
-You can import my public key via WKD (recommended), the hkps://keys.openpgp.org key server or you can [manually import the key](https://les.cx/todo). Many email clients (e.g. Thunderbird on desktop or FairEmail on Android) support auto-import of public keys via WKD.
+You can import my public key via WKD (recommended), the hkps://keys.openpgp.org key server or you can [manually import the key](https://les.cx/todo). Many email clients (e.g. Thunderbird on desktop or FairEmail on Android) support auto-importing public keys via WKD.
 
 You can find my fingerprint on every platform I'm at - excluding my website. If someone manages to compromise my server and replaces my key, they will change the fingerprint as well.
 
