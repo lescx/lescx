@@ -18,7 +18,7 @@ If you are sure you know what you are doing (and knew it when you created and st
 
 You can import my public key via WKD (recommended), the hkps://keys.openpgp.org key server or you can [manually import the key](https://les.cx/todo). Many email clients (e.g. Thunderbird on desktop or FairEmail on Android) support auto-import of public keys via WKD.
 
-You can find my fingerprint on every platform I'm at - excluding my website. If someone manages to compromise my server and can change the key, they will change the fingerprint as well.
+You can find my fingerprint on every platform I'm at - excluding my website. If someone manages to compromise my server and replaces my key, they will change the fingerprint as well.
 
 Links to the fingerprint:
 - [nostr](https://snort.social/e/nevent1qqs26xp8hal0utlqdgm830r3r065ma5zqfqg339lz6559jn9hkeh3zqpz3mhxue69uhhyetvv9ujumn0wd68ytnzvupzqaxuvhtw3zv34j332cw8g9937j7c4atggpg7hfc9wduttw5ywsuuqvzqqqqqqytlsngw)
