@@ -17,7 +17,7 @@ If you are sure you know what you are doing (and knew it when you created and st
 
 Many email clients (e.g. Thunderbird on desktop or FairEmail on Android) support auto-importing public keys via WKD/SRV DNS-Records.
 
-Alternativrly, you can find my public key on the [keys.openpgp.org](hkps://keys.openpgp.org) key server or you can [manually import it](https://les.cx/todo). 
+Alternativly, you can find my public key on the hkps://keys.openpgp.org key server or you can [manually import it](https://les.cx/todo). 
 
 You can find my fingerprint on every platform I'm at - excluding my website. If someone manages to compromise my server and replaces my key, they will change the fingerprint as well.
 
