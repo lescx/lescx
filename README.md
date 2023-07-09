@@ -1,4 +1,4 @@
-# Hello, Friend - An About Me.
+# Hello, Friend.
 
 ## Contact Me
 
