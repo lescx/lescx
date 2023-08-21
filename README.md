@@ -4,7 +4,7 @@
 
 - [HTTPS](https://les.cx)
 <!-- - [Gemini](gemini://les.cx) -->
-<!-- - [TOR](http://les.cx/placeholder) --> -->
+<!-- - [TOR](http://les.cx/placeholder) -->
 
 <!-- nostr: npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
 - Matrix: @les.cx:matrix.org
