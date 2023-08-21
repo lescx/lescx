@@ -1,11 +1,12 @@
-# Hello, Friend.
+<!-- # Hello, Friend.
 
 ## Contact Me
 
 - [HTTPS](https://les.cx)
 <!-- - [Gemini](gemini://les.cx) -->
-<!-- - [TOR](http://les.cx/placeholder) -->
-- nostr: npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
+<!-- - [TOR](http://les.cx/placeholder) --> -->
+
+<!-- nostr: npub1wnwxt4hg3xg6egc4v8r5zjclf0v2745yq50t5uzhx794h2z8gwwqszpm3w
 - Matrix: @les.cx:matrix.org
 
 ### Email
@@ -24,4 +25,4 @@ You can find my fingerprint on every platform I'm at - excluding my website. If 
 
 Links to the fingerprint:
 - [nostr](https://snort.social/e/nevent1qqs26xp8hal0utlqdgm830r3r065ma5zqfqg339lz6559jn9hkeh3zqpz3mhxue69uhhyetvv9ujumn0wd68ytnzvupzqaxuvhtw3zv34j332cw8g9937j7c4atggpg7hfc9wduttw5ywsuuqvzqqqqqqytlsngw)
-- [GitHub](https://gist.github.com/lescx/f93febd342bc4f99a9409b201d2d1764)
+- [GitHub](https://gist.github.com/lescx/f93febd342bc4f99a9409b201d2d1764) -->
