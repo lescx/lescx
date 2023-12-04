@@ -17,7 +17,7 @@ Hello, Friend.
 | Programming Languages:                                                      |
 | - System                                                             C, Zig |
 | - Scripting                                           POSIX Shell, Awk, Lua |
-| - Besides                                lisp, Go, Rust, Python, Java, Dart |
+| - Besides                                      lisp, Go, Rust, Python, Dart |
 +-----------------------------------------------------------------------------+
 | Principles:                                                                 |
 |     >    Use FLOSS applications following the UNIX and suckless philosophy. |
