@@ -32,6 +32,6 @@ Hello, Friend.
 |     >      OpenBSD is nicely minimal but lacking many(!) security features. |
 |     >                                       And yes, I know about Qubes OS. |
 |     >                                  Im comparison, ChromeOS is less bad. |
-| - Other interests?            Sure! Calendars & Time, Cryptography, Plan9,… |
+| - Other interests?        Too Many! Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
