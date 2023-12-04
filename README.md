@@ -1,6 +1,6 @@
-# Hello, Friend.
-
 ```
+Hello, Friend.
+
 +-----------------------------------------------------------------------------+
 | Hardware:                                                                   |
 | - Chromebook [TODO Specs]                                                   |
