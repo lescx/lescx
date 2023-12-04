@@ -17,7 +17,6 @@ Hello, Friend.
 | Programming Languages:                                                      |
 | - System                                                             C, Zig |
 | - Scripting                                           POSIX Shell, Awk, Lua |
-| - Web                                         HTML, CSS, Vanilla JavaScript |
 | - Besides                                lisp, Go, Rust, Python, Java, Dart |
 +-----------------------------------------------------------------------------+
 | Principles:                                                                 |
