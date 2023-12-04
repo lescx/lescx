@@ -13,14 +13,12 @@ Hello, Friend.
 | - ChromeOS                                         programming & university |
 | - OpenBSD                                                          personal |
 | - GrapheneOS                                                         mobile |
-| - Tails                                                         Tails stuff |
 +-----------------------------------------------------------------------------+
 | Programming Languages:                                                      |
 | - System                                                             C, Zig |
 | - Scripting                                           POSIX Shell, Awk, Lua |
 | - Web                                         HTML, CSS, Vanilla JavaScript |
-| - Besides                                      Go, Python, Rust, Java, Dart |
-| - TODO Learn                                                           lisp |
+| - Besides                                lisp, Go, Rust, Python, Java, Dart |
 +-----------------------------------------------------------------------------+
 | Principles:                                                                 |
 |     >    Use FLOSS applications following the UNIX and suckless philosophy. |
