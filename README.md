@@ -22,11 +22,6 @@ Hello, Friend.
 | - Besides                                      Go, Python, Rust, Java, Dart |
 | - TODO Learn                                                           lisp |
 +-----------------------------------------------------------------------------+
-| Tools and Environments (excerpt):                                           |
-| - UNIX terminal applications                                           tmux |
-| - Code editing                                             helix, git, llvm |
-| - Reverse engineering                                               radare2 |
-+-----------------------------------------------------------------------------+
 | Principles:                                                                 |
 | - Use FLOSS applications following the UNIX and suckless philosophy         |
 | - Proper system hardening, awareness for OSINT                              |
