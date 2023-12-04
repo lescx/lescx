@@ -23,8 +23,8 @@ Hello, Friend.
 | - TODO Learn                                                           lisp |
 +-----------------------------------------------------------------------------+
 | Principles:                                                                 |
-|     >   Use FLOSS applications following the UNIX and suckless philosophy.  |
-|     >                         OSINT awareness and proper system hardening.  |
+|     >    Use FLOSS applications following the UNIX and suckless philosophy. |
+|     >                          OSINT awareness and proper system hardening. |
 +-----------------------------------------------------------------------------+
 | FAQ:                                                                        |
 | - Vim or Emacs?                                                         Vim |
