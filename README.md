@@ -3,7 +3,7 @@ Hello, Friend.
 
 +-----------------------------------------------------------------------------+
 | Hardware:                                                                   |
-| - Chromebook (CP713-3W)                                                     |                                             |
+| - Chromebook (CP713-3W)                                                     |
 | - Thinkpad X220                                                             |
 | - Google Pixel 6a                                                           |
 | - 2x2 YubiKey 5c                                                            |
