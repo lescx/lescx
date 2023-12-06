@@ -10,7 +10,7 @@ Hello, Friend.
 | - Notebook and fountain pen                                                 |
 +-----------------------------------------------------------------------------+
 | Operating Systems:                                                          |
-| - ChromeOS                                         programming & university |
+| - ChromeOS                                                              dev |
 | - OpenBSD                                                          personal |
 | - GrapheneOS                                                         mobile |
 +-----------------------------------------------------------------------------+
