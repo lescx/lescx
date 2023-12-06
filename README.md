@@ -31,7 +31,7 @@ Hello, Friend.
 |     >                macOS is okay but not interesting to me at the moment. |
 |     >      OpenBSD is nicely minimal but lacking many(!) security features. |
 |     >                                       And yes, I know about Qubes OS. |
-|     >                                  Im comparison, ChromeOS is less bad. |
+|     >                       Im comparison, ChromeOS is less bad. It's sane. |
 | - Other interests?        Too Many! Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
