@@ -26,10 +26,10 @@ Hello, Friend.
 | FAQ:                                                                        |
 | - Vim or Emacs?                                                       Helix |
 | - Why ChromeOS?                                                             |
-|     >            Windows is secure[r] if hardened correctly but is bloated. |
-|     >        Linux is a single mess with security years behind other OSses. |
+|     >              Windows is secure™ if hardened correctly but is bloated. |
+|     >                   Linux is a pile of mess with insufficient security. |
 |     >                macOS is okay but not interesting to me at the moment. |
-|     >      OpenBSD is nicely minimal but lacking many(!) security features. |
+|     >                      OpenBSD is nicely suckless but lacking security. |
 |     >                                       And yes, I know about Qubes OS. |
 |     >                       Im comparison, ChromeOS is less bad. It's sane. |
 | - Other interests?        Too Many! Calendars & Time, Cryptography, Plan9,… |
