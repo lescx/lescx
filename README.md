@@ -28,7 +28,7 @@ Hello, Friend.
 | - Why ChromeOS?                                                             |
 |     >              Windows is secure™ if hardened correctly but is bloated. |
 |     >                   Linux is a pile of mess with insufficient security. |
-|     >                macOS is okay but not interesting to me at the moment. |
+|     >                macOS is good but not interesting to me at the moment. |
 |     >                      OpenBSD is nicely suckless but lacking security. |
 |     >                                       And yes, I know about Qubes OS. |
 |     >                       Im comparison, ChromeOS is less bad. It's sane. |
