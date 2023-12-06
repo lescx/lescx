@@ -24,7 +24,7 @@ Hello, Friend.
 |     >                          OSINT awareness and proper system hardening. |
 +-----------------------------------------------------------------------------+
 | FAQ:                                                                        |
-| - Vim or Emacs?                                                         Vim |
+| - Vim or Emacs?                                                       Helix |
 | - Why ChromeOS?                                                             |
 |     >            Windows is secure[r] if hardened correctly but is bloated. |
 |     >        Linux is a single mess with security years behind other OSses. |
