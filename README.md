@@ -3,8 +3,8 @@ Hello, Friend.
 
 +-----------------------------------------------------------------------------+
 | Hardware:                                                                   |
-| - Chromebook [TODO Specs]                                                   |
-| - Framework Laptop (13th Gen i5, 32GB RAM)                                  |
+| - Chromebook (CP713-3W)                                                     |                                             |
+| - Thinkpad X220                                                             |
 | - Google Pixel 6a                                                           |
 | - 2x2 YubiKey 5c                                                            |
 | - Notebook and fountain pen                                                 |
