@@ -3,16 +3,12 @@ Hello, Friend.
 
 +-----------------------------------------------------------------------------+
 | Hardware:                                                                   |
-| - Chromebook (CP713-3W)                                                     |
-| - Thinkpad X220                                                             |
-| - Google Pixel 6a                                                           |
+| - Chromebook (CP713-3W)                                            ChromeOS |
+| - Thinkpad X220                                                  ChromiumOS |
+| - Google Pixel 6a                                                GrapheneOS |
+| - Google Pixel 4a                                                      AOSP |
 | - 2x2 YubiKey 5c                                                            |
 | - Notebook and fountain pen                                                 |
-+-----------------------------------------------------------------------------+
-| Operating Systems:                                                          |
-| - ChromeOS                                                              dev |
-| - OpenBSD                                                          personal |
-| - GrapheneOS                                                         mobile |
 +-----------------------------------------------------------------------------+
 | Programming Languages:                                                      |
 | - System                                                             C, Zig |
@@ -31,7 +27,7 @@ Hello, Friend.
 |     >                macOS is good but not interesting to me at the moment. |
 |     >                      OpenBSD is nicely suckless but lacking security. |
 |     >                                       And yes, I know about Qubes OS. |
-|     >                       Im comparison, ChromeOS is less bad. It's sane. |
+|     >                      Im comparison, Chrome OS is less bad. It's sane. |
 | - Other interests?        Too Many! Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
