@@ -15,9 +15,7 @@ Hello, Friend.
 | - Scripting                                           POSIX Shell, Awk, Lua |
 | - Besides                                      lisp, Go, Rust, Python, Dart |
 +-----------------------------------------------------------------------------+
-| Principles:                                                                 |
-|     >    Use FLOSS applications following the UNIX and suckless philosophy. |
-|     >                          OSINT awareness and proper system hardening. |
+
 +-----------------------------------------------------------------------------+
 | FAQ:                                                                        |
 | - Vim or Emacs?                                                       Helix |
