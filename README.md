@@ -1,6 +1,6 @@
 ```
-Hello, Friend.
-
++-----------------------------------------------------------------------------+
+| Hello, friend.                                                              |
 +-----------------------------------------------------------------------------+
 | Hardware:                                                                   |
 | - Chromebook (CP713-3W)                                            ChromeOS |
@@ -12,12 +12,11 @@ Hello, Friend.
 +-----------------------------------------------------------------------------+
 | Programming Languages:        Go, C, Zig, Elixir, Shell, Awk, Scheme, asm,… |
 +-----------------------------------------------------------------------------+
-| FAQ:                                                                        |
-| - Vim or Emacs?                                                       Helix |
-| - Why ChromeOS?                                                             |
+| Vim or Emacs?                                                         Helix |
+| Why ChromeOS?                                                               |
 |                                       Plan 9 has never been widely adopted. |
 |                                      OpenBSD is great but too conservative. |
 |                            Chrome OS is less bad than other "modern" OSses. |
-| - Other interests?                  Calendars & Time, Cryptography, Plan9,… |
+| Other interests?                    Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
