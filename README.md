@@ -10,19 +10,14 @@ Hello, Friend.
 | - 2x2 YubiKey 5c                                                            |
 | - Notebook and fountain pen                                                 |
 +-----------------------------------------------------------------------------+
-| Programming Languages:                                                      |
-| - System                                                             C, Zig |
-| - Scripting                                           POSIX Shell, Awk, Lua |
-| - Besides                                      lisp, Go, Rust, Python, Dart |
-+-----------------------------------------------------------------------------+
-
+| Programming Languages:        Go, C, Zig, Elixir, Shell, Awk, Scheme, asm,… |
 +-----------------------------------------------------------------------------+
 | FAQ:                                                                        |
-| Vim or Emacs?                                                         Helix |
-| Why ChromeOS?                                                               |
-|                        Unfortunately, Plan 9 has never been widely adopted. |
-|                          OpenBSD is cool but too conservative for my needs. |
+| - Vim or Emacs?                                                       Helix |
+| - Why ChromeOS?                                                             |
+|                                       Plan 9 has never been widely adopted. |
+|                                      OpenBSD is great but too conservative. |
 |                            Chrome OS is less bad than other "modern" OSses. |
-| Other interests?          Too Many! Calendars & Time, Cryptography, Plan9,… |
+| - Other interests?                  Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
