@@ -16,7 +16,7 @@
 | Why ChromeOS?                                                               |
 |                                       Plan 9 has never been widely adopted. |
 |                                      OpenBSD is great but too conservative. |
-|                            Chrome OS is less bad than other "modern" OSses. |
+|                      ChromeOS is less bad compared to other "modern" OSses. |
 | Other interests?                    Calendars & Time, Cryptography, Plan9,… |
 +-----------------------------------------------------------------------------+
 ```
