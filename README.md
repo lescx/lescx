@@ -10,7 +10,7 @@
 | - 2x2 YubiKey 5c                                                            |
 | - Notebook and fountain pen                                                 |
 +-----------------------------------------------------------------------------+
-| Programming Languages:        Go, C, Zig, Elixir, Shell, Awk, Scheme, asm,… |
+| Programming Languages:             Go, C, Zig, Elixir, Shell, Awk, Scheme,… |
 +-----------------------------------------------------------------------------+
 | Vim or Emacs?                                                         Helix |
 | Why ChromeOS?                                                               |
