@@ -28,7 +28,7 @@ Sellout. Also:
 * OpenBSD is great but too conservative.
 * Windows is too bloated and overly complex. Also Microsoft…
 * Nothing against macOS.
-* ChromeOS is less bad compared to other "modern" haxxors OSses (\*cough\*Linux).
+* ChromeOS is less bad compared to other "modern" haxxors OSses in terms of security (\*cough\*Linux).
 
 > Other interests?
 
