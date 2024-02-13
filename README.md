@@ -2,7 +2,7 @@
 
 ## Hardware
 - Chromebook (CP713-3W) – ChromeOS
-- Thinkpad X220 – ChromiumOS
+- Thinkpad X220 – ~~ChromiumOS~~ OpenBSD
 - Google Pixel 6a – GrapheneOS
 - Google Pixel 4a – AOSP
 - 2x2 YubiKey 5c
