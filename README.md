@@ -37,8 +37,8 @@ Calendars & Time, Analog Photography, Cryptography, Plan9,…
 ## Favorite GitHub Projects
 
 - [amused](https://github.com/omar-polo/amused)
+- [Helix](https://github.com/helix-editor/helix)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [age](https://github.com/FiloSottile/age)
 - [r2](https://github.com/radareorg/radare2)
-- [sherlock](https://github.com/sherlock-project/sherlock)
 - [YubiKey+GPG+SSH guide](https://github.com/drduh/YubiKey-Guide)
