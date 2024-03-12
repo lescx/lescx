@@ -19,7 +19,7 @@
 
 > Vim or Emacs?
 
-Helix.
+[Helix.](https://helix-editor.com)
 
 > Why ChromeOS?
 
